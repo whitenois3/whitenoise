@@ -7,10 +7,10 @@ class Document extends NextDocument {
       <Html >
         <Head>
           <link rel="shortcut icon" href="/favicon.ico" />
-          <title>Rainplate</title>
+          <title>Whitenoise</title>
           <meta
             name="description"
-            content="Rainplate"
+            content="Whitenoise"
           />
           <meta name="author" content="asnared <https://github.com/abigger87>" />
         </Head>

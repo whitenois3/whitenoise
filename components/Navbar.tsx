@@ -13,7 +13,7 @@ const Navbar = () => {
                 fontWeight="bold"
                 css={{ userSelect: 'none', pointerEvents: 'none' }}
             >
-                Rainplate
+                Whitenoise
             </Heading>
             <Box paddingRight={8}>
                 <ConnectButton />

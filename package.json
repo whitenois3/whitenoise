@@ -1,7 +1,6 @@
 {
-  "name": "rainplate",
-  "description": "A Versatile, Extensible Dapp Boilerplate built with Rainbowkit, Next.js, and Chakra-ui.",
-  "author": "asnared <https://github.com/abigger87>",
+  "name": "whitenoise",
+  "description": "Dark Forest Operations Control | Semper Invictus",
   "private": false,
   "license": "Unlicense",
   "version": "0.2.0",

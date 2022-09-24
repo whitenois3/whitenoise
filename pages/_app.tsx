@@ -20,7 +20,7 @@ const { chains, provider } = configureChains(
 );
 
 const { connectors } = getDefaultWallets({
-  appName: 'Rainplate',
+  appName: 'Whitenoise',
   chains
 });
 
@@ -44,7 +44,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <ChakraProvider resetCSS theme={theme}>
       <Head>
-        <title>Rainplate</title>
+        <title>Whitenoise</title>
       </Head>
       <WagmiConfig client={wagmiClient}>
           <RainbowKitProvider
