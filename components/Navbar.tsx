@@ -15,9 +15,9 @@ const Navbar = () => {
             >
                 Whitenoise
             </Heading>
-            <Box paddingRight={8}>
+            {/* <Box paddingRight={4}>
                 <ConnectButton />
-            </Box>
+            </Box> */}
         </Flex>
     )
 }
