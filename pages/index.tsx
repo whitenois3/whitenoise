@@ -42,7 +42,7 @@ const Home: NextPage = () => {
             {/* </Link> */}
           </GridItem>
         </Grid>
-        <Grid marginTop="auto" paddingBottom={8} pr={6} alignItems='center'>
+        <Grid paddingBottom={8} pr={6} alignItems='center'>
           <GridItem>
             <Link href="https://github.com/clabby" isExternal>
               <Heading
